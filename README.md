@@ -1,4 +1,4 @@
-![Image](./image.png)
+![Image](image.png)
 
 
 <!--
