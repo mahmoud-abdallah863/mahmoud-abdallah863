@@ -1,7 +1,7 @@
 
 # Hi you 👋
 
-My name is **Mahmoud** and if there is one thing that wakes me up in the morning, is the passion and... Nah, it's coffee. Just **Coffee**
+My name is **Mahmoud** and if there is one thing that wakes me up in the morning, is my passion to... Nah, it's coffee. Just **Coffee**
 
 <!-- Nice to see you here!<br> -->
 <!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abdallah-66200915b/) -->
