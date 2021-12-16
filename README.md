@@ -21,7 +21,6 @@ My name is **Mahmoud** and if there is one thing that wakes me up in the morning
 
 </br>
 
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mahmoud-abdallah863&theme=highcontrast&layout=compact&show_icons=true&count_private=true) ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abdallah863&theme=highcontrast&layout=compact&show_icons=true&count_private=true)
 
 
