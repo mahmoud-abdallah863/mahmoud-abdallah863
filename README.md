@@ -3,9 +3,16 @@
 
 My name is **Mahmoud** and if there is one thing that wakes me up in the morning, is my passion to... Nah, it's coffee. Just **Coffee**
 
+Little about me:
+
+- 🔭 I’m currently working on [DFont library](https://github.com/mahmoud-abdallah863/DFont)
+- 🌱 I’m currently learning ui-testing on android
+- 🤔 I’m looking for help with [DFont library](https://github.com/mahmoud-abdallah863/DFont)
+- 💬 Ask me about anything
+- 📫 How to reach me: gmail: mabdallah863@gmail.com
+
 <!-- Nice to see you here!<br> -->
 <!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abdallah-66200915b/) -->
-</br>
 
 </br>
 
