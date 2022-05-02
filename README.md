@@ -6,7 +6,7 @@ My name is **Mahmoud** and if there is one thing that wakes me up in the morning
 Little about me:
 
 - 🔭 I’m currently working on [DFont library](https://github.com/mahmoud-abdallah863/DFont)
-- 🌱 I’m currently learning **dependency injection** on android using [Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
+- 🌱 I’m currently learning Jetpack Compose
 - 🤔 I’m looking for help with [DFont library](https://github.com/mahmoud-abdallah863/DFont)
 - 💬 Ask me about anything
 - 📫 How to reach me: gmail: mabdallah863@gmail.com
