@@ -7,10 +7,9 @@ Little about me:
 
 - 🔭 I’m currently working on [Empty Android App](https://play.google.com/store/apps/details?id=com.mabd.empty)
 - 🌱 I’m currently learning Jetpack Compose
+- 🤔 I’m looking for help with [DFont library](https://github.com/mahmoud-abdallah863/DFont)
 - 💬 Ask me about anything
 - 📫 How to reach me: gmail: mabdallah863@gmail.com
-
-<!-- - 🤔 I’m looking for help with [DFont library](https://github.com/mahmoud-abdallah863/DFont) -->
 
 
 
