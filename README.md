@@ -30,9 +30,9 @@ Little about me:
 
 </br>
 
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=mahmoud-abdallah863&theme=highcontrast&layout=compact&show_icons=true&count_private=true) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=mahmoud-abdallah863&theme=highcontrast&layout=compact&show_icons=true&count_private=true) 
 
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abdallah863&theme=highcontrast&layout=compact&show_icons=true&count_private=true) -->
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-abdallah863&theme=highcontrast&layout=compact&show_icons=true&count_private=true)
 
 
 <!-- this is **open source development** 🐧! -->
